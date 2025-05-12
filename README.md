@@ -1,4 +1,4 @@
-# photo-water-mark
+# photo-watermark
 
 一个浏览器专用的图片加水印工具，使用 `<canvas>` 实现，可添加单行或多行文字水印。
 
@@ -7,7 +7,7 @@
 ## 📦 安装
 
 ```bash
-npm install photo-water-mark
+npm install photo-watermark
 ```
 
 
@@ -27,7 +27,7 @@ npm install photo-water-mark
 ## 🖥️ 使用方式（推荐 async/await）
 
 ~~~js
-import { Water_Mark } from 'photo-water-mark'
+import { Water_Mark } from 'photo-watermark'
 
 async function addWatermark() {
   const imageUrl = 'xxxxxx'

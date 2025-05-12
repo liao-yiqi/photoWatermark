@@ -1,6 +1,6 @@
 {
     "name": "photo-watermark",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "index.js",
     "browser": "index.js",
     "description": "将普通图片转成带水印的图片",
